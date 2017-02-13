@@ -22,10 +22,7 @@ body {
 
 blockquote {
   border-left: 4px solid #6a7e95;
-  padding-left: 20px;
-  padding-right: 5px;
-  padding-bottom: 5px;
-  padding-top: 5px; }
+  padding: 5px 5px 5px 20px; }
 
 a {
   color: #09a0f6;
@@ -112,14 +109,8 @@ h6 {font-size: 16px;line-height: 30px;}
   text-align: center;
   text-decoration: none !important;
   line-height: 28px;
-  margin-left: 5px;
-  margin-right: 5px;
-  margin-top: 5px;
-  margin-bottom: 20px;
-  padding-left: 25px;
-  padding-right: 25px;
-  padding-top: 5px;
-  padding-bottom: 5px;
+  margin: 5px 5px 20px;
+  padding: 5px 25px 5px;
   display: inline-block;
   cursor: pointer;
   border-radius: 5px;
@@ -156,14 +147,8 @@ h6 {font-size: 16px;line-height: 30px;}
     text-align: center;
     text-decoration: none !important;
     line-height: 28px;
-    margin-left: 5px;
-    margin-right: 5px;
-    margin-top: 5px;
-    margin-bottom: 20px;
-    padding-left: 25px;
-    padding-right: 25px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    margin: 5px 5px 20px;
+    padding: 5px 25px 5px;
     display: inline-block;
     cursor: pointer;
     border-radius: 5px;
@@ -208,10 +193,7 @@ h6 {font-size: 16px;line-height: 30px;}
   transition: all 0.3s;
   color: #526475;
   padding: 10px;
-  margin-top: 0px;
-  margin-bottom: 20px;
-  margin-left: 5px;
-  margin-right: 5px;
+  margin: 0 5px 20px;
   border: 1px solid #d1e1e8;
   border-radius: 5px;
   outline: 0px;
@@ -230,10 +212,7 @@ h6 {font-size: 16px;line-height: 30px;}
   transition: all 0.3s;
   color: #526475;
   padding: 10px;
-  margin-top: 0px;
-  margin-bottom: 20px;
-  margin-left: 5px;
-  margin-right: 5px;
+  margin: 0 5px 20px;
   border: 1px solid #d1e1e8;
   border-radius: 5px;
   outline: 0px;
@@ -255,14 +234,8 @@ h6 {font-size: 16px;line-height: 30px;}
   text-align: center;
   text-decoration: none !important;
   line-height: 28px;
-  margin-left: 5px;
-  margin-right: 5px;
-  margin-top: 5px;
-  margin-bottom: 20px;
-  padding-left: 25px;
-  padding-right: 25px;
-  padding-top: 5px;
-  padding-bottom: 5px;
+  margin: 5px 5px 20px;
+  padding: 5px 25px;
   display: inline-block;
   cursor: pointer;
   border-radius: 5px;
@@ -284,10 +257,7 @@ h6 {font-size: 16px;line-height: 30px;}
   transition: all 0.3s;
   color: #526475;
   padding: 10px;
-  margin-top: 0px;
-  margin-bottom: 20px;
-  margin-left: 5px;
-  margin-right: 5px;
+  margin: 0 5px 20px;
   border: 1px solid #d1e1e8;
   border-radius: 5px;
   outline: 0px;
@@ -307,10 +277,7 @@ h6 {font-size: 16px;line-height: 30px;}
   transition: all 0.3s;
   color: #526475;
   padding: 10px;
-  margin-top: 0px;
-  margin-bottom: 20px;
-  margin-left: 5px;
-  margin-right: 5px;
+  margin: 0 5px 20px;
   border: 1px solid #d1e1e8;
   border-radius: 5px;
   outline: 0px;
