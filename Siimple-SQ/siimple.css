@@ -1,10 +1,4 @@
-/**
- * siimple - Minimal CSS framework for flat and clean designs.
- * @version v1.3.7
- * @link https://siimple.juanes.xyz/
- * Edited by SiteQuite
- * @license MIT
- */
+/* Siimple v1.3.7 - Minimal CSS Framework - https://siimple.juanes.xyz - Edited by SiteQuite - Stilyan Kangalov - MIT */
 
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,300");
 .heart:after {content: "\2764";color: #f45660;}
