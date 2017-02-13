@@ -4,19 +4,15 @@
 .heart:after {content: "\2764";color: #f45660;}
 
 body {color: #526475;margin: 0px;padding: 0px;font-family: 'Open Sans';font-size: 16px;font-weight: 300;background-color: #fff;}
-
 blockquote {border-left: 4px solid #6a7e95;padding: 5px 5px 5px 20px;}
 
 a {color: #09a0f6;font-weight: normal;text-decoration: none;transition: all 0.3s;}
 a:hover {text-decoration: underline;cursor: pointer;}
-
 p {line-height: 28px;margin-bottom: 20px;margin-top: 0px;display: block;}
-
 ul, ol {line-height: 28px;margin-bottom: 16px;margin-top: 0px;}
 ul li, ol li {line-height: 28px;}
-
+img {max-width: 100%;}
 small {color: #6a7e95;font-size: 14px;}
-
 h1, h2, h3, h4, h5, h6 {font-weight: 300;color: #526475;display: block;margin-bottom: 20px;margin-top: 0px;}
 
 h1 {font-size: 36px;line-height: 50px;}
@@ -78,11 +74,8 @@ h6 {font-size: 16px;line-height: 30px;}
     color: #09a0f6;
     background-color: transparent;
     border: 1px solid #09a0f6; }
-    .btn-outline:hover {
-      text-decoration: none; }
-    .btn-outline:hover {
-      color: #fff;
-      background-color: #09a0f6; }
+    .btn-outline:hover {text-decoration: none;}
+    .btn-outline:hover {color: #fff;background-color: #09a0f6;}
 
 .form-input[type="text"], .form-input[type="password"], .form-input[type="number"], .form-input[type="email"] {
   font-family: 'Open Sans';
@@ -237,14 +230,6 @@ h6 {font-size: 16px;line-height: 30px;}
 @media (max-width: 400px) {
   .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12  {width: 98%;} }
 
-.table {
-  display: table;
-  width: 100%;
-  border-width: 0px;
-  border-collapse: collapse;
-  font-weight: 300;
-  color: #526475;
-  margin-top: 0px;
-  margin-bottom: 20px; }
+.table {display: table;width: 100%;border-width: 0px;border-collapse: collapse;font-weight: 300;color: #526475;margin-top: 0px;margin-bottom: 20px;}
 .table thead tr td {font-weight: normal;border-bottom: 2px solid #d1e1e8;background-color: #f6f8fa;}
 .table tr td {border-bottom: 1px solid #d1e1e8;padding: 10px 0 10px 10px;}
