@@ -3,4 +3,4 @@
 
 Optimized frameworks for faster loading time.
 
-== Simulating branch conflicts ==
+== Simulating branch conflicts - Second Test ==
